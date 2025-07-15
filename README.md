@@ -1,1 +1,2 @@
-2nd year student @ University of Toronto Scarborough
+3rd year student @ University of Toronto Scarborough
+Full-Stack SWE Intern @ Mozilla
